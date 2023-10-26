@@ -1,2 +1,2 @@
-# u2_CRUD_tbfarbricantes_5i
-CRUD tabla Fabricantes
+# u2_crud_tblJuegos_5i
+Tabla Juegos CRUD Crear, Leer, Actualizar y Borrar registros
